@@ -1,0 +1,8 @@
+
+streamlit
+snscrape
+textblob
+matplotlib
+wordcloud
+pandas
+yfinance
